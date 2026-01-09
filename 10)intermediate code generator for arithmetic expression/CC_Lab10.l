@@ -1,7 +1,7 @@
 %{
 	
 	#include <stdio.h>
-	#include "tarun_cclab10.tab.h"
+	#include "cclab10.tab.h"
 %}
 
 %%
